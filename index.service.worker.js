@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1776339831|15765319';
+const CACHE_VERSION = '1776340681|63427599';
 /** @type {string} */
 const CACHE_PREFIX = 'effectinator-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
